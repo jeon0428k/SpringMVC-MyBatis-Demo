@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="JRebel" name="JRebel">
+      <configuration>
+        <option name="ideModuleStorage">
+          <map>
+            <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+            <entry key="jrebelEnabled" value="true" />
+            <entry key="lastExternalPluginCheckTime" value="1763038061718" />
+            <entry key="rebelXmlGenerationInvariantToken" value="PGFwcGxpY2F0aW9uIGdlbmVyYXRlZC1ieT0iaW50ZWxsaWoiPjxpZD5TcHJpbmdEZW1vPC9pZD48Y2xhc3NwYXRoPjxkaXIgbmFtZT0iRDovd29ya3NwYWNlL2phdmEvU3ByaW5nTVZDLU15QmF0aXMtRGVtby90YXJnZXQvY2xhc3NlcyI+PC9kaXI+PC9jbGFzc3BhdGg+PHdlYj48bGluayB0YXJnZXQ9Ii8iPjxkaXIgbmFtZT0iRDovd29ya3NwYWNlL2phdmEvU3ByaW5nTVZDLU15QmF0aXMtRGVtby9zcmMvbWFpbi93ZWJhcHAiPjwvZGlyPjwvbGluaz48L3dlYj48L2FwcGxpY2F0aW9uPg==" />
+          </map>
+        </option>
+        <option name="version" value="7" />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
