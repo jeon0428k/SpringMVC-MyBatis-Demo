@@ -13,6 +13,13 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class TestController {
 
+    @RequestMapping(value = "/index",
+            method = RequestMethod.GET,
+            produces="application/json;charset=UTF-8")
+    public void index(ModelMap model) {
+        model.addAttribute("user", new User());
+    }
+
     @RequestMapping(value = "/hello",
             method = RequestMethod.GET,
             produces="application/json;charset=UTF-8")
