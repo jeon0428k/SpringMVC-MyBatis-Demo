@@ -1,0 +1,1 @@
+SELECT '3' as COL1 FROM DUAL;
